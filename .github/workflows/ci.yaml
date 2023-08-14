@@ -58,6 +58,11 @@ jobs:
       - name: Setup Rust Toolchain
         uses: dtolnay/rust-toolchain@stable
 
+      - name: Setup Rust Cache
+          uses: Swatinem/rust-cache@v2
+          with:
+            prefix-key: "rust-cache"
+
       - name: Setup Ninja and GTK3 Toolchain (Only Linux platform)
         if: matrix.os == 'ubuntu-latest'
         run: |
