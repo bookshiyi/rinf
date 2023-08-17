@@ -468,6 +468,16 @@ We appreciate your contribution to the development of this project!
 
 [![GitHub contributors (via allcontributors.org)](https://contrib.rocks/image?repo=cunarist/rust-in-flutter)](https://github.com/cunarist/rust-in-flutter/graphs/contributors)
 
+# 📈 Star History
+
+<a href="https://star-history.com/#cunarist/rust-in-flutter&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=cunarist/rust-in-flutter&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=cunarist/rust-in-flutter&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=cunarist/rust-in-flutter&type=Date" />
+  </picture>
+</a>
+
 # ☕ Support Us
 
 If you are benefiting from the features of Rust-In-Flutter and find it helpful, why not consider supporting this project? Your generous donations contribute to the maintenance and development of Rust-In-Flutter, ensuring its continuous improvement and growth. 😉
